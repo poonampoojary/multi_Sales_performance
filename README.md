@@ -1,60 +1,56 @@
-📊 Sales Performance Analysis | Power BI
+📊 Sales Performance Analysis – Power BI
 
-Turning Retail Data into Business Insights
+📌 Project Overview
 
-<p align="center">
-  <b>Explore • Analyze • Visualize • Improve</b>
-</p>---
+This project focuses on analyzing retail business sales data using Microsoft Power BI. The dashboard provides insights into sales performance, customer behavior, product performance, marketing effectiveness, returns, inventory, and profitability.
 
-✨ Project Overview
+The project helps understand business performance through interactive dashboards, visualizations, and key performance indicators (KPIs).
 
-This project presents an interactive Retail Sales Performance Analytics Dashboard developed using Microsoft Power BI and Microsoft Excel.
+🛠️ Tools & Technologies Used
 
-The dashboard transforms retail business data into meaningful visual insights, helping understand sales performance, profitability, customer behavior, marketing effectiveness, product trends, returns and inventory.
+- Microsoft Power BI
+- Microsoft Excel
+- DAX (Data Analysis Expressions)
+- Power Query
 
-It contains 6 interactive dashboard pages, designed with a consistent visual theme and interactive filters for exploring business performance.
+📈 Dashboard Pages
 
----
+This project consists of six interactive dashboard pages:
 
-🛠️ Tools & Technologies
+1. Sales Analysis
 
-Tool| Purpose
-📊 Microsoft Power BI| Dashboard development and visualization
-📗 Microsoft Excel| Dataset preparation and data storage
-🧮 DAX| Calculated measures and business KPIs
+- Gross Sales
+- Discount
+- Net Sales
+- Customer Analysis
+- Sales by Region
+- Sales by Category
+- Top 10 Products
 
----
+2. Customer & Product Analysis
 
-📑 Dashboard Highlights
+- Total Products
+- Total Customers
+- Average Selling Price
+- Total Quantity Sold
+- Total Refund Amount
+- Customer and Product Insights
 
-1. Sales Overview
-
-Analyzes overall retail sales performance and key business indicators.
-
-2. Marketing Performance Analysis
+3. Marketing Performance
 
 - Total Impressions
 - Total Clicks
 - Click-Through Rate (CTR)
 - Conversion Rate
 - Return on Ad Spend (ROAS)
-
-3. Customer & Product Analysis
-
-- Total Products
-- Total Customers
-- Average Selling Price
-- Quantity Sold
-- Customer Distribution
-- Product Category Analysis
+- Regional Marketing Performance
 
 4. Customer & Product Insights
 
-- Product Sales Analysis
-- Product Category Distribution
-- Customer Distribution by Region
-- Customer Age Group Analysis
-- Returned Quantity Analysis
+- Product Performance
+- Customer Distribution
+- Category Analysis
+- Regional Customer Insights
 
 5. Returns & Inventory Analysis
 
@@ -63,7 +59,7 @@ Analyzes overall retail sales performance and key business indicators.
 - Return Rate
 - Total Stock
 - Returned Quantity
-- Stock Availability
+- Inventory Analysis
 
 6. Sales & Profitability Analysis
 
@@ -73,78 +69,43 @@ Analyzes overall retail sales performance and key business indicators.
 - Profit Margin
 - Sales by Region
 - Profit by Product Category
-- Payment Mode Analysis
+- Top 10 Products by Gross Profit
 
----
+🖼️ Dashboard Previews
 
-🖥️ Dashboard Previews
+Page 1 – Sales Analysis
+"Sales Analysis" (Dashboard-Previews/Sales-Analysis.png)
 
-Dashboard screenshots will be displayed here.
+Page 2 – Customer & Product Analysis
+"Customer & Product Analysis" (Dashboard-Previews/Customer-Product-Analysis.png)
 
-Dashboard| Preview
-Sales Overview| Add screenshot
-Marketing Analysis| Add screenshot
-Customer & Product Analysis| Add screenshot
-Customer & Product Insights| Add screenshot
-Returns & Inventory| Add screenshot
-Sales & Profitability| Add screenshot
+Page 3 – Marketing Performance
+"Marketing Performance" (Dashboard-Previews/Marketing-Performance.png)
 
----
+Page 4 – Customer & Product Insights
+"Customer & Product Insights" (Dashboard-Previews/Customer-Product-Insights.png)
 
-📂 Project Structure
+Page 5 – Returns & Inventory Analysis
+"Returns & Inventory" (Dashboard-Previews/Returns-Inventory.png)
 
-Sales-Performance-Analysis-PowerBI/
-│
-├── MULTI SALES DASHBOARD.pbix
-│
-├── Retail_Business_Analytics_Sheet1.xlsx
-├── Retail_Business_Analytics_Sheet2.xlsx
-├── Retail_Business_Analytics_Sheet3.xlsx
-├── Retail_Business_Analytics_Sheet4.xlsx
-├── Retail_Business_Analytics_Sheet5.xlsx
-├── Retail_Business_Analytics_Sheet6.xlsx
-│
-└── README.md
+Page 6 – Sales & Profitability Analysis
+"Sales & Profitability" (Dashboard-Previews/Sales-Profitability.png)
 
----
+📂 Project Files
+
+- "MULTI SALES DASHBOARD.pbix" – Power BI dashboard file.
+- Excel files – Dataset used for the analysis.
+- "Dashboard-Previews" – Dashboard screenshots.
 
 🎯 Project Objectives
 
-- Analyze overall sales and profitability.
+- Analyze overall sales performance.
 - Understand customer purchasing behavior.
-- Evaluate marketing campaign performance.
 - Identify top-performing products and categories.
-- Monitor returns, refunds and inventory.
-- Present business insights through interactive visualizations.
+- Evaluate marketing campaign performance.
+- Analyze product returns and inventory.
+- Measure business profitability.
 
----
+🚀 Conclusion
 
-💡 Key Learnings
-
-Through this project, I gained practical experience in:
-
-- Building multi-page dashboards in Power BI.
-- Working with Excel datasets.
-- Creating DAX measures and KPIs.
-- Designing interactive visualizations.
-- Analyzing business performance.
-- Presenting data in a meaningful and understandable way.
-
----
-
-🚀 Future Improvements
-
-- Add advanced sales forecasting.
-- Develop deeper customer segmentation.
-- Introduce automated data refresh.
-- Expand business performance reporting.
-
----
-
-👩‍💻 Created By
-
-Poonam Poojary
-
-Aspiring Data Analyst | Power BI | Excel | Data Visualization
-
-Learning from data. Growing through insights.
+This project helped develop practical skills in data visualization, business intelligence, data analysis, DAX calculations, and dashboard development using Microsoft Power BI.
