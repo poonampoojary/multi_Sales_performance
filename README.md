@@ -72,23 +72,17 @@ This project consists of six interactive dashboard pages:
 - Top 10 Products by Gross Profit
 
 🖼️ Dashboard Previews
-### Page 1 – Sales Analysis
-![Sales Analysis](./Dashboard-Previews/Sales-Analysis.png)
+![Sales Analysis](<MULTI SALES ANALYSIS/DASHBOARD PREVIEW/Sales-Analysis.png.png>)
 
-### Page 2 – Customer & Product Analysis
-![Customer & Product Analysis](./Dashboard-Previews/Customer-Product-Analysis.png)
+![Customer & Product Analysis](<MULTI SALES ANALYSIS/DASHBOARD PREVIEW/Customer-Product-Analysis.png.png>)
 
-### Page 3 – Marketing Performance
-![Marketing Performance](./Dashboard-Previews/Marketing-Performance.png)
+![Marketing Performance](<MULTI SALES ANALYSIS/DASHBOARD PREVIEW/Marketing-Performance.png.png>)
 
-### Page 4 – Customer & Product Insights
-![Customer & Product Insights](./Dashboard-Previews/Customer-Product-Insights.png)
+![Customer & Product Insights](<MULTI SALES ANALYSIS/DASHBOARD PREVIEW/Customer-Product-Insights.png.png>)
 
-### Page 5 – Returns & Inventory Analysis
-![Returns & Inventory](./Dashboard-Previews/Returns-Inventory.png)
+![Returns & Inventory](<MULTI SALES ANALYSIS/DASHBOARD PREVIEW/Returns-Inventory.png.png>)
 
-### Page 6 – Sales & Profitability Analysis
-![Sales & Profitability](./Dashboard-Previews/Sales-Profitability.png)
+![Sales & Profitability](<MULTI SALES ANALYSIS/DASHBOARD PREVIEW/Sales-Profitability.png.png>)
 📂 Project Files
 
 - "MULTI SALES DASHBOARD.pbix" – Power BI dashboard file.
